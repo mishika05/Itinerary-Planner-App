@@ -1,4 +1,4 @@
-**ITINEARAY PLANNER**
+**ITINERARY PLANNER**
 
 Traveling is a rewarding experience, but it often comes with its own set of challenges. From booking flights to managing hotel reservations, and from planning transportation to packing, there's a lot to keep track of.  It’s easy to miss important things along the way. That’s where an Itinerary Planner app comes in. It’s a very simple app that helps you organize your entire trip, making the planning process smoother and ensuring you don’t forget any of the essential details for a hassle-free journey. 
 
